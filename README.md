@@ -24,5 +24,5 @@
 - HTML5 / CSS3
 - JavaScript (ES6)
 
-## 動作確認
+## 動作確認※PCブラウザでの操作を推奨しています（キーボード操作）
 [https://autodevplayroom-create.github.io/tetris-js/]
