@@ -22,4 +22,4 @@
 - JavaScript (ES6)
 
 ## 動作確認
-[ここにGitHub PagesのURLがあれば貼る（なければ削除）]
+[https://autodevplayroom-create.github.io/tetris-js/]
